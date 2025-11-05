@@ -107,7 +107,7 @@ Kenzy Mohammed
 Machine Learning | Data Science Enthusiast
 Gmail: kenzy.m.shehate@gmail.com 
 
-🏷️ License
+License
 This project is open-source under the MIT License.
 
 ---
